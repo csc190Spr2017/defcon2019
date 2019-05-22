@@ -1,0 +1,5 @@
+May 18 17:42:30.919 INFO gloryhosting on 0.0.0.0:9999
+May 18 17:47:03.404 INFO servicing client, peer: 127.0.0.1:60692
+May 18 17:47:13.484 ERRO unable to service remote peer, peer: 127.0.0.1:60692
+May 18 17:47:39.661 INFO servicing client, peer: 127.0.0.1:60694
+May 18 17:47:49.662 ERRO unable to service remote peer, peer: 127.0.0.1:60694

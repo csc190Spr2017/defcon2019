@@ -1,0 +1,132 @@
+1. looks like executable file. Do "file gloryhost" -> x64 bin exec
+2. gdb into it and found .rs file suffix --> Rusty Program
+3. download retdec to decompile it
+		cmake, install flex, bison then
+		make
+4. test retdec: set alias decomplier 
+		retdec-decompiler.py test.exe 
+		-> compiling retdec takes quite long, continue with exploration
+5. after running the program, test
+		echo "hi" | nc 0.0.0.0 9999
+	see the welcome screen "GLORY ... wher eyou can freely run code
+6. try overflow with super large string 
+	perl -e "print 'aaaa'x1024*1024" | nc 0.0.0.0 9999
+	when size is 128x1024x1024 it crashes the server and actually crashes OS!
+7. the welcome screen shows that it needs base64 encoded WASI binary
+	Let's compile it.
+8. do a simple Rust program and send it to server
+	hello.rs and compile it and base64 it but sending to server receives no output
+9. read about what is RUST WASI
+	follow tutorial: https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md
+	compile using clang hello.c -o hello.wasm
+	Found that clang needs further set up
+10. problem s2wasm is not shipped with llvm, so froget about it turn to Rust programming
+11. Read tutorial Rust and WebAssembly
+12. reinstall rust toolchanin	 
+	following: https://rustwasm.github.io/book/game-of-life/setup.html
+		install wasm toolchain
+13. wasm is till not wasi, go back to the route of c++ wasi-sdk5
+	download https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md#from-c
+	-> not working
+14. compile following:
+		https://00f.net/2019/04/07/compiling-to-webassembly-with-llvm-and-clang/  -> does not work
+15. install the deb package instead using apt, it works
+16. go back to 
+	https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md
+17. it also needs to deploy the libclang_rt.builtins-wasm....tar.gz, but after that it copiles
+18. still it does not execute that well, try to get a decompiler for the rust code:
+		retdec
+19. installed retdec decompiler but it complains about LLVM IR decompilation failed
+20. try another: decompiler --no-memory-limit helped gloryhost
+	note that decmopiler is defined as a macro in ~/.bashrc
+	*** takes quite some time to decompile
+21. compile from decompiled code and see if it works -> sitll does not work fails eventually
+========================= try traditional approach using gdb =============================
+1. strace -f gloryhost -l dump.txt
+	The contents passed through netcat is received using recvfrom
+	command related: echo "abcd1234" | nc 0.0.0.0 9999
+2. gdb into gloryhost and break on recvfrom and see what it is doing
+	-> did not capture, using the 
+	gdb command: set follow-fork-mode child  -> no there is no new forked process
+	but new threads
+3. gdb to break on all threads
+	b recv (instead of recvfrom can get all the function calls and fortunately all are
+		tagged with symbol information)
+4. basically from recv it jumps to Rust TcpStream.io.Read_to_end function
+5. do an awatch on on the buffer is read.
+	---> gdb malfunction!!! somehow not able to use memory watch points, shoot.
+6. break on write and see who's writing the message
+	---> break on __libc_write and can capture the message, but up the framechain gets to
+		poll and MapErr
+7. decompilation works but the source code cannot be compiled with syntax errors, but still
+	provides some idea
+	the following is command is the one avoid memory problems (still needs about 20G of mem)
+	*********
+	decompiler --no-memory-limit --backend-no-opts ./gloryhost
+	*********
+8. read the source code and find anything interesting
+	*** decompiled files are in decompiled/
+	(a) verified recv(...) is indeed called in read(...)
+	(b) check where ERRO is used as string
+			recv is called by
+			<--Std::io::read_to_end_with_reservation
+			<--ZN3std2io11read_to_end17hc294c4c35563994dE
+			<--_ZN3std2io4Read11read_to_end17hfae5749948750fcfE
+			<-- TcpStream read_to_end: tokio_io__io__read_to_end__ReadToEnd_24_LT_24_A_24_GT_2
+			<-- futures..future   poll::hbde poll17hbdde0e76930d652cE
+			<-- futures..future poll
+			<-- poll17haac9a61103b16eb3E
+			<-- futures..future chain::poll poll17ha852c419bec31a5fE
+			<-- futures..future...poll poll17h3fe76a1612bc8d3dE
+			<-- futures ... future ... poll poll17h25bb2a23ca6c040dE
+			<-- yet another poll poll17h44ba448c4e342c35E
+			<-- poll17h639e75852334264cE
+			<-- map error poll: poll17h62e1919dba56e21cE
+		It looks like poll is more lke a generic function
+	(c) string analysis: search string "unable to service remote peer" find a lot of similar
+			strings for variety of reasons such as no entry point.
+	(d) check msg "servicing client, peer " --> g5251 (global var 5251)
+		-> it's called in function on_client *** main calls on_client
+	(e) check msg "unable to service remote peer" --> g5284 to 5288 
+		-> they are called in function on_client
+	(f) g5254->g_unable_instantiate_module
+			called in on_client::closure::17hfbba2209521a50f9E
+	(g) read all related about on_client, it seems to have several internal functions
+			that are not symbolzied
+		-> _ZN9gloryhost9on_client17hb823235d38299134E ===> on_client
+		-> _ZN9gloryhost9on_client28__24_u7b_24__24_u7b_24_closure_24_u7d_24__24_u7d_24_17h8b1a02cc87850145E			==> on_client_sock_to_str
+		-> _ZN9gloryhost9on_client28__24_u7b_24__24_u7b_24_closure_24_u7d_24__24_u7d_24_17h69ff1d49b34509d4E ==> on_client_drop_in_place
+	(h) in _ZN9gloryhost9on_client28__24_u7b_24__24_u7b_24_closure_24_u7d_24__24_u7d_24_17hfbba2209521a50f9E it performs base64 decode, local vairable: encoded_data
+			/ From module:   src/main.rs
+// Address range: 0x3172b0 - 0x3181da
+// Line range:    194 - 0
+		--> using objdump it matches  _ZN9gloryhost9on_client28_$u7b$$u7b$closure$u7d$$u7d$17hfbba2209521a50f9E
+			it calls _ZN9gloryhost14execute_module17hac1687edcc5ea983E(v84, v121);
+	(g) debug on_client....9E
+		echo "AAAA" | nc 0.0.0.0 9999
+	Still base64 is never hit!
+		using objdump -t to find out mangled function name, and in gdb it's:
+			base64::decode::decode
+		Strangely base64 decode is never called -- it must be stopped from somewhere else.
+-------------------
+9. Debug and find out why base64 decode is not called 
+	Functions involved:
+		base64::decode::decode and decoder_helper and decode_chunk_precise but neither is hit
+10.	check who's calling them by check source code
+	* log functions: slog::Logger::log -> b lib.rs:1203
+11. find and debug the caller of decoder::decode
+	b on _ZN9gloryhost9on_client28__24_u7b_24__24_u7b_24_closure_24_u7d_24__24_u7d_24_17hfbba2209521a50f9E 
+		-> main.rs:194
+		can directly break on that
+	---> the debugged code does not correspond to the decompiled code!
+----------------------------------------------------
+================= NOW CHEAPTED A BIT == READ THE others writeup ------------------
+(a) on the right track but missing two important information
+	--- forgot that the code could actually call existing system calls and functions available
+		in the system
+  --- never thought about spectra!
+(b) most important of all, the WMSI code never worked! Got to make it work first
+==========================================================================================
+1. go through the rust route again -> rust_practice
+
+		

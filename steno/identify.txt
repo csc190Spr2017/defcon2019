@@ -1,0 +1,2650 @@
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 1280x720+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+  Channel statistics:
+    Pixels: 921600
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    921600: (  0,  0,  0) #000000 gray(0)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0) #000000 gray(0)
+         1: (  0,  0,  0) #000000 gray(0)
+         2: (  0,  0,  0) #000000 gray(0)
+         3: (255,255,255) #FFFFFF gray(255)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: gray(255)
+  Border color: gray(223)
+  Matte color: gray(189)
+  Transparent color: gray(0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+0+0
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 0 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 822e3a311bc34185394aeb709bb83310f1243089b95cdadc218eee179b1d6f78
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 922K
+  Pixels per second: 2.56MB
+  User time: 0.340u
+  Elapsed time: 0:01.359
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 592x595+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 352240
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    352240: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+341+61
+  Origin geometry: +341+61
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 1 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 1528fb84aa12af93f28ddec639f69c5ba51359c63a6064da1450e120907f1d2d
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 352K
+  Pixels per second: 419KB
+  User time: 0.800u
+  Elapsed time: 0:01.839
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 592x602+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 356384
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    356384: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+341+59
+  Origin geometry: +341+59
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 2 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 250fd639f4fa48ab693bcf49e987c6a3f86aa53e050c882557c457f1b6a7a898
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 356K
+  Pixels per second: 339KB
+  User time: 1.020u
+  Elapsed time: 0:02.050
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 577x608+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 350816
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    350816: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+353+56
+  Origin geometry: +353+56
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 3 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 0500a77fc54cd27c6bc24aae1a73f5249011e70e16ae05ff585b0905907b4233
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 351K
+  Pixels per second: 276KB
+  User time: 1.260u
+  Elapsed time: 0:02.269
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 409x610+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 249490
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    249490: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+334+56
+  Origin geometry: +334+56
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 4 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: afd89647b33d4fc841fbceb2ed5ec010b11479f70ec37ece6b27312f755b1de8
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 249K
+  Pixels per second: 167KB
+  User time: 1.460u
+  Elapsed time: 0:02.489
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 616x592+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 364672
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    364672: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+332+76
+  Origin geometry: +332+76
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 5 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 2c9dff94bebe2612cbf5685676d6e35607b30a0b40c75ba9b206508194ed5591
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 365K
+  Pixels per second: 218KB
+  User time: 1.630u
+  Elapsed time: 0:02.669
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 616x619+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 381304
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    381304: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+332+49
+  Origin geometry: +332+49
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 6 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: b83918b607c4be80c1dd4605bedd623c9d9461a3c9e6b52c04851ac828c2ad10
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 381K
+  Pixels per second: 202KB
+  User time: 1.870u
+  Elapsed time: 0:02.890
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 590x584+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 344560
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    344560: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+362+49
+  Origin geometry: +362+49
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 7 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 831e273f6759747f34e93a4e3e486973b88bd6705e6bf0afbc03761e3e8cb688
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 345K
+  Pixels per second: 163KB
+  User time: 2.100u
+  Elapsed time: 0:03.119
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 486x586+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 284796
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    284796: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+466+47
+  Origin geometry: +466+47
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 8 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 821f0fb2bbb3a2e4c9e80161d08c5b44bfafa0ba518d0dec247fd0548ea2fc85
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 285K
+  Pixels per second: 122KB
+  User time: 2.300u
+  Elapsed time: 0:03.330
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 495x630+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 311850
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    311850: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+460+45
+  Origin geometry: +460+45
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 9 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 04c10929e94f3b238859fe1943fb6f06d205d812ffc74892d067261dad39855e
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 312K
+  Pixels per second: 125KB
+  User time: 2.490u
+  Elapsed time: 0:03.500
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 504x630+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 317520
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    317520: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+451+45
+  Origin geometry: +451+45
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 10 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: c25c638d22b5143d471e3771d75a26280c16f6c1e2fc9452493f8271ce09c42c
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 318K
+  Pixels per second: 118KB
+  User time: 2.680u
+  Elapsed time: 0:03.690
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 574x581+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 333494
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    333494: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+323+96
+  Origin geometry: +323+96
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 11 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 2f8a79134cb9007e371d30039c11eb22d951f2db00ac51a5eb44d97918473d6c
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 333K
+  Pixels per second: 116KB
+  User time: 2.890u
+  Elapsed time: 0:03.879
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 635x635+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 403225
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    403225: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+323+42
+  Origin geometry: +323+42
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 12 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 5d911587a93dd9bff123205b03ede49493ca11d5b873870145a281afbf08d3e3
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 403K
+  Pixels per second: 130KB
+  User time: 3.090u
+  Elapsed time: 0:04.099
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 572x637+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 364364
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    364364: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+387+42
+  Origin geometry: +387+42
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 13 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 40e728055a1e93324e50fe32b4e5688b14f9ee05a9d11cb91f3b682743d733a0
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 364K
+  Pixels per second: 109KB
+  User time: 3.330u
+  Elapsed time: 0:04.339
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 352x287+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 101024
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    101024: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+607+392
+  Origin geometry: +607+392
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 14 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: e5c3e0b7d251352ee11ebe9832a9300e1982ac1c4508103abebe362ccc989df7
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 101K
+  Pixels per second: 28.3KB
+  User time: 3.560u
+  Elapsed time: 0:04.570
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 559x559+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 312481
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    312481: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+320+121
+  Origin geometry: +320+121
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 15 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 32fff846ac06215cf5f08cf5dea750507b19f289dc95526b4689f9af5e84c119
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 312K
+  Pixels per second: 85.6KB
+  User time: 3.650u
+  Elapsed time: 0:04.649
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 640x640+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 409600
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    409600: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+320+40
+  Origin geometry: +320+40
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 16 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 159433c0ff249d9fa7b2aa419b274c0c6a1c95efe4ee3ae6d1ae4ed617ace882
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 410K
+  Pixels per second: 107KB
+  User time: 3.850u
+  Elapsed time: 0:04.839
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 640x640+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 409600
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    409600: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+320+40
+  Origin geometry: +320+40
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 17 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 159433c0ff249d9fa7b2aa419b274c0c6a1c95efe4ee3ae6d1ae4ed617ace882
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 410K
+  Pixels per second: 100KB
+  User time: 4.100u
+  Elapsed time: 0:05.089
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 458x640+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 293120
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    293120: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+411+40
+  Origin geometry: +411+40
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 18 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: a084f01996f8839650057d844da83289aa607bc59d97a01f8cc45da5aa91058e
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 293K
+  Pixels per second: 67.5KB
+  User time: 4.330u
+  Elapsed time: 0:05.339
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 640x549+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 351360
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    351360: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+320+131
+  Origin geometry: +320+131
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 19 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 334662dfb070f470466eb844d9843ba597aa054ed831403aa6dab7ae71444908
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 351K
+  Pixels per second: 77.7KB
+  User time: 4.520u
+  Elapsed time: 0:05.519
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 640x559+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 357760
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    357760: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+320+121
+  Origin geometry: +320+121
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 20 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: db0dcbe8b0028a5ed069b7ac140eece7a7610e2db8678a8ec61e73393c7fcc6d
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 358K
+  Pixels per second: 75.5KB
+  User time: 4.740u
+  Elapsed time: 0:05.740
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 565x559+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 315835
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    315835: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+395+121
+  Origin geometry: +395+121
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 21 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: cbd7f19e2b92a202f1ac153b48f96e6faf5b368385b6b0f9359468589359cb7d
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 316K
+  Pixels per second: 63.8KB
+  User time: 4.950u
+  Elapsed time: 0:05.949
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 347x528+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 183216
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    183216: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+320+152
+  Origin geometry: +320+152
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 22 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 4b139d2d29dd3d295bce3c612cf60410cfd398a17b91c37c2e8347dd90b6d2ec
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 183K
+  Pixels per second: 35.6KB
+  User time: 5.160u
+  Elapsed time: 0:06.149
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 638x450+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 287100
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    287100: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+320+107
+  Origin geometry: +320+107
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 23 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: fcc13697ef7ba2c57ea9620d72e2977be018b72363cf5476748d4e33783722eb
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 287K
+  Pixels per second: 54.3KB
+  User time: 5.290u
+  Elapsed time: 0:06.289
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 636x634+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 403224
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    403224: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+322+43
+  Origin geometry: +322+43
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 24 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: d30cda243208a2d6581b8bf68fa2665cbb875f390c6ea150be580f91b0f5a820
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 403K
+  Pixels per second: 73.4KB
+  User time: 5.460u
+  Elapsed time: 0:06.490
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 633x634+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 401322
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    401322: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+324+43
+  Origin geometry: +324+43
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 25 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: ae731092b0b8a96824c3b763b9dfcb91c371490fcaac0eda4b3cffb9c2db476b
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 401K
+  Pixels per second: 69.9KB
+  User time: 5.710u
+  Elapsed time: 0:06.739
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 632x630+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 398160
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    398160: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+324+45
+  Origin geometry: +324+45
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 26 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 0e4a09db3ef2f3f9d09e7a338d6827ba087d7fe7fcbcb59c07af9944e9082bc5
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 398K
+  Pixels per second: 66.6KB
+  User time: 5.960u
+  Elapsed time: 0:06.980
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 583x630+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 367290
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    367290: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+370+45
+  Origin geometry: +370+45
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 27 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 9cd0aa51bc30d306ea7280cab1bf2ea70a7efdc583fd4586ecbe1a798ac11db2
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 367K
+  Pixels per second: 59.1KB
+  User time: 6.200u
+  Elapsed time: 0:07.210
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 583x625+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 364375
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    364375: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+370+47
+  Origin geometry: +370+47
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 28 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: f7632eb37f8d65ed7fa953f26b4e20867d6cdbeff57795100d2eb089b3e52e31
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 364K
+  Pixels per second: 56.6KB
+  User time: 6.430u
+  Elapsed time: 0:07.440
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 622x474+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 294828
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    294828: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+330+198
+  Origin geometry: +330+198
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 29 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 417069cb948c559f93d2ecb873899aad94a7ce0f4ad8534002ab9c0a01655a19
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 295K
+  Pixels per second: 44.2KB
+  User time: 6.650u
+  Elapsed time: 0:07.669
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 620x618+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 383160
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    383160: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+330+52
+  Origin geometry: +330+52
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 30 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: ab8ff59547ac7d3f31bfb15e5fe6b519600a031600a16c6efaeaa8f03fca84b8
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 383K
+  Pixels per second: 55.9KB
+  User time: 6.840u
+  Elapsed time: 0:07.850
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 589x614+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 361646
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    361646: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+332+52
+  Origin geometry: +332+52
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 31 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: f4a487e6c9c67041fde8827600f2d21886df045e95422e303ef46277538cf2bc
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 362K
+  Pixels per second: 51.1KB
+  User time: 7.070u
+  Elapsed time: 0:08.080
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 449x612+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 274788
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    274788: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+334+54
+  Origin geometry: +334+54
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 32 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 173da70c2e729a46d79259d9399325e550721d7e3431943e588e3036027481f7
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 275K
+  Pixels per second: 37.7KB
+  User time: 7.290u
+  Elapsed time: 0:08.289
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 605x608+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 367840
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    367840: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+336+56
+  Origin geometry: +336+56
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 33 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 485cd5d5f7740023977eff0128757ddb48af8eb9ab6e3543710ee19c2a745a9d
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 368K
+  Pixels per second: 49.3KB
+  User time: 7.450u
+  Elapsed time: 0:08.460
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Image: red1.gif
+  Format: GIF (CompuServe graphics interchange format)
+  Mime type: image/gif
+  Class: PseudoClass
+  Geometry: 600x431+0+0
+  Units: Undefined
+  Type: Bilevel
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 258600
+    Gray:
+      min: 0 (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+      entropy: -nan
+  Colors: 1
+  Histogram:
+    258600: (  0,  0,  0,255) #000000FF graya(0,1)
+  Colormap entries: 4
+  Colormap:
+         0: (  0,  0,  0,255) #000000FF graya(0,1)
+         1: (  0,  0,  0,255) #000000FF graya(0,1)
+         2: (  0,  0,  0,255) #000000FF graya(0,1)
+         3: (255,255,255,  0) #FFFFFF00 graya(255,0)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: graya(255,0)
+  Border color: graya(223,1)
+  Matte color: graya(189,1)
+  Transparent color: graya(255,0)
+  Interlace: GIF
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x720+341+230
+  Origin geometry: +341+230
+  Dispose: Undefined
+  Delay: 25x100
+  Iterations: 0
+  Scene: 34 of 35
+  Compression: LZW
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-05-12T17:45:21-04:00
+    date:modify: 2019-05-12T17:45:21-04:00
+    signature: 8321b2acc18720833aefe770ef571be00d246f8c52c9a615b9e3e3119cf756fe
+  Artifacts:
+    filename: red1.gif
+    verbose: true
+  Tainted: False
+  Filesize: 80KB
+  Number pixels: 259K
+  Pixels per second: 33.6KB
+  User time: 7.690u
+  Elapsed time: 0:08.689
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org

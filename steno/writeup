@@ -1,0 +1,31 @@
+1. trid to delete all frames and see no difference
+2. installed pip gifparse and modified the program to dump attributes
+		recursively.
+3. check comments field: don't find any
+4. try to do color analysis: all SAME color. Played with global color table
+	it's always the same color. No showing of other text info.
+5. folow suggestions of : https://medium.com/@FourOctets/ctf-tidbits-part-1-steganography-ea76cc526b40
+	(a) file red2.gif -> ok, nothing
+	(b) strings red2.gif -> did no find OOO and flag
+	(c) exiftool reports 35 frames, 3 colors, 8.7 seconds animation  
+	(d) use binwalk to check if there are embeded files, none.
+			binwalk -Me red1.gif
+	(e) try foremost red1.gif - nothing -> so it's looking like no embeded
+		image
+	(f) use identify -> this gives more detailed information. Confirmed that
+		the entire image is just one color. So the information must be hiding
+		somewhere.
+	(g) tried stegnosolv does not work (verified one color again).
+			35 frames each with different width
+6.  tried to line up all location of frames and see if they encode information, failed to see base64 or chars; tried to apply universal decoder dcode, not
+working
+-------- 05/17/2019 after ---------
+7. color table is the way to go, use library python pillow
+8. use coding to replace color index with real color
+9. extract all frames into local images and save in RGB
+10. merge all frames -> found it was indeed octagon and the alphabet is given
+11. easy scripting, first test each point is present
+12. define bits->idx translation of alphabet 
+13. Done! -> OOO{F-NCEN+--NE+++BD+D+++DARV-+-E+++=JJ+DHDL+E+YNDAZRE-}
+
+
